@@ -13,7 +13,7 @@ name                     : &name "AAP"
 description              : &description "Power and Analog Electronics Engineer, Enthusiast, and Researcher"
 url                      : https://a-phanse.github.io/intuit_elec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "intuit_elec.github.io"
+repository               : # "intuit_elec.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
