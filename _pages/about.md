@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "An Inquisitive Mind's Guide to Electronics"
+excerpt: "About the site"
 author_profile: true
 redirect_from: 
   - /about/
