@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+theme                    : minimal-mistakes-jekyll
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 title                    : "Electronics with Intuition"
 title_separator          : "-"
@@ -81,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "AAP"
+  name             : "Ajinkya"
   avatar           : "profile.png"
   bio              : "Power and Analog Electronics Engineer, Enthusiast, and Researcher"
   location         : "Location"
