@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Over the last many years studying electronics - specifically power and analog - I have come across very few resources
+on the internet which help with building intuition around complex electronics concepts. The resources available on the
+internet are either overly simplistic - so much so that they are either wrong or they forget to mention important nuances - 
+or the main takeaways get lost in the math. There are of course some honorable exceptions. Textbooks cerntainly convey
+the information most accurately. However, the fine nuggets of information get lost in the sheer volume of the content that
+textbooks cover. 
+
+Here, I hope, you will find succinct, accurate, and thought-provoking content relevant to power and analog electronics - 
+circuit architectures, devices, and the theoretical tools to build and analyze the same, like control systems and signal processing. 
+You might also come across some other interesting things that I came across and my thoughts about the same.
 
 A data-driven personal website
 ======
