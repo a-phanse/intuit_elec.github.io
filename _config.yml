@@ -10,7 +10,7 @@ locale                   : "en-US"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 title                    : "Electronics with Intuition"
 title_separator          : "-"
-name                     : &name "Ajinkya"
+name                     : &name "AAP"
 description              : &description "Power and Analog Electronics Engineer, Enthusiast, and Researcher"
 url                      : https://a-phanse.github.io/intuit_elec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ajinkya"
+  name             : "AAP"
   avatar           : "profile.png"
   bio              : "Power and Analog Electronics Engineer, Enthusiast, and Researcher"
   location         : "Location"
