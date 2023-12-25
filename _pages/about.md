@@ -19,4 +19,4 @@ Here, I hope, you will find succinct, accurate, and thought-provoking content re
 circuit architectures, devices, and the theoretical tools to build and analyze the same, like control systems and signal processing. 
 You might also come across some other interesting things that I came across and my thoughts about the same.
 
-## [A little about me...](https://academicpages.github.io/cv)
+## [A little about me...](https://a-phanse.github.io/intuit_elec.github.io/cv/)
