@@ -2,7 +2,7 @@
 title: "Design, Implementation and Comparison of Power Electronic Circuits for Current Control through 3-axis Magnetorquer coils in a Satellite"
 collection: publications
 permalink: /publications/2019-07-09-magnetorquer-peds
-excerpt: 'This paper describes the different power electronics circuits for achieving precise control of current through the magnetorquer coils of a nanosatellite - for College of Engineering Pune's CSAT2 in this case.'
+excerpt: "This paper describes the different power electronics circuits for achieving precise control of current through the magnetorquer coils of a nanosatellite - for College of Engineering Pune's CSAT2 in this case."
 date: 2019-07-09
 venue: '2019 IEEE 13th International Conference on Power Electronics and Drive Systems (PEDS)'
 ---
