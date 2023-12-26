@@ -2,7 +2,7 @@
 title: "Simulation, design and implementation of various MPPT systems for micro cube-satellite application"
 collection: publications
 permalink: /publications/2016-11-18-mppt-cipech
-excerpt: 'This paper discusses the Maximum Power Point Tracking (MPPT) system developed for Electrical Power System (EPS) of COEP Satellite Initiative's second satellite mission.'
+excerpt: "This paper discusses the Maximum Power Point Tracking (MPPT) system developed for Electrical Power System (EPS) of COEP Satellite Initiative's second satellite mission."
 date: 2016-11-18
 venue: '2016 Second International Innovative Applications of Computational Intelligence on Power, Energy and Controls with their Impact on Humanity (CIPECH)'
 ---
