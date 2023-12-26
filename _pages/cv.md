@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -26,7 +25,7 @@ Research experience
 * Indian Institute of Technology, Bombay: Research Intern [2018]
   * Pulsed Power Supplies for Electric Discharge Machining
 
-* COEP's Satellite Initiative: Project Manager and Power Subsystem Manager [2016-2019]
+* COEP's Satellite Initiative: Project Manager and Power Subsystem Member [2016-2019]
   * Student undergraduate team working on development of a nano-satellite
   * Part of Power Subsystem working on Power Electronics and Analog Systems of the satellite
 
