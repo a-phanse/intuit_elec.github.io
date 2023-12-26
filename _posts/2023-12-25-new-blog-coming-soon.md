@@ -9,32 +9,10 @@ permalink: /posts/2023/12/new-blog-coming-soon//
 redirect_from:
   - /wordpress/2023/12/new-blog-coming-soon/
 categories:
-  - Academic Works
-  - Unpublished
+  - Power Electronics Blog Post
 tags:
-  - capitalism
-  - communication
-  - communism
-  - communist manifesto
-  - community
-  - conference
-  - construction
-  - copyright
-  - corporate adoption
-  - discourse
-  - free software
-  - globalization
-  - html
-  - information
-  - intellectual property
-  - internet
-  - law
-  - Linux
-  - Marx
-  - open source
-  - open source software
-  - philosophy
-  - technology
-  - Weber
+  - Power Electronics
+  - Buck Converter
+  - Buck-Boost Converter
 ---
 Coming Soon... Stay tuned
