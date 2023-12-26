@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "A Low-Leakage, Low-Loss Magnetic Transformer Structure for High-Frequency Applications"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-09-05-paper-lowleakagelowlossxmer-ecce
+excerpt: 'In this work we propose an energy storage transformer - similar to the ones used in a Flyback or a Coupled-Inductor Boost Converters - which achieves low leakage inductance and just 1/7th the power loss of a traditional transformer'
+date: 2022-09-05
+venue: '2022 24th European Conference on Power Electronics and Applications (EPE'22 ECCE Europe)'
+paperurl: 'https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=Vf37kxQAAAAJ&citation_for_view=Vf37kxQAAAAJ:IjCSPb-OGe4C'
+citation: 'A. Nguyen, A. Phanse, M. Solomentsev and A. J. Hanson, "A Low-Leakage, Low-Loss Magnetic Transformer Structure for High-Frequency Applications," 2022 24th European Conference on Power Electronics and Applications (EPE'22 ECCE Europe), Hanover, Germany, 2022, pp. 1-11.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Energy-storage transformers, such as transformers for flyback or LLC converters, have different design constraints than typical transformers. Since primary and secondary currents are not in phase, interleaving does not necessarily reduce high-frequency losses. Such transformers often must be designed with low leakage as well. In this work, we propose design guidelines for a transformer structure that uses field shaping to achieve current conduction along most of the skin of the conductors (double-sided conduction), equal current sharing between paralleled turns, even for out-of-phase currents, and near zero MMF drop across the leakage reluctance paths. The transformer therefore has low leakage inductance and low conduction loss without the use of litz wire and can be used effectively at frequencies beyond a few megahertz. Step-by-step design guidelines are proposed and a prototype transformer is built which achieves a leakage to magnetizing ratio of 1.12%, a power loss 14–17% of a traditional lumped-gap transformer, and current sharing variation less than 1.5% between paralleled turns.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=Vf37kxQAAAAJ&citation_for_view=Vf37kxQAAAAJ:IjCSPb-OGe4C)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: A. Nguyen, A. Phanse, M. Solomentsev and A. J. Hanson, "A Low-Leakage, Low-Loss Magnetic Transformer Structure for High-Frequency Applications," 2022 24th European Conference on Power Electronics and Applications (EPE'22 ECCE Europe), Hanover, Germany, 2022, pp. 1-11.
