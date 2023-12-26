@@ -1,7 +1,7 @@
 ---
 title: "A Low-Leakage, Low-Loss Magnetic Transformer Structure for High-Frequency Applications"
 collection: publications
-permalink: /publication/2022-09-05-paper-lowleakagelowlossxmer-ecce
+permalink: /publications/2022-09-05-paper-lowleakagelowlossxmer-ecce
 excerpt: 'In this work we propose an energy storage transformer - similar to the ones used in a Flyback or a Coupled-Inductor Boost Converters - which achieves low leakage inductance and just 1/7th the power loss of a traditional transformer'
 date: 2022-09-05
 venue: '2022 24th European Conference on Power Electronics and Applications (EPE'22 ECCE Europe)'
